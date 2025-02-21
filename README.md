@@ -1,0 +1,2 @@
+# 100ask_imx6ullpro_SetEnvironmentScript
+针对原来支持ubuntu16和18的shell脚本，加入对ubuntu20的支持
